@@ -34,8 +34,7 @@ A **modern and interactive** select dropdown menu built using **HTML, CSS, and J
 
 ## 📸 Project Preview  
 
-<!-- Replace with your actual project screenshot -->
-<img src="images/preview.png" alt="Project Screenshot" width="600px">
+![sel1](https://github.com/user-attachments/assets/3dae5e1b-dc29-4ecd-8927-af66b54215fd)
 
 ---
 
