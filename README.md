@@ -6,7 +6,7 @@ A **modern and interactive** select dropdown menu built using **HTML, CSS, and J
 
 ## 🚀 Live Preview
 
-🔗 [View Mini Calendar Online](#) *(Add live link if hosted)*
+🔗 [View Mini Calendar Online](https://select-menu-ten.vercel.app/) 
 
 ---
 
