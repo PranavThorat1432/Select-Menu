@@ -36,6 +36,8 @@ A **modern and interactive** select dropdown menu built using **HTML, CSS, and J
 
 ![sel1](https://github.com/user-attachments/assets/3dae5e1b-dc29-4ecd-8927-af66b54215fd)
 
+![sel2](https://github.com/user-attachments/assets/b98c05de-0af0-4273-a821-e71d53745ffa)
+
 ---
 
 ## 📂 File Structure  
